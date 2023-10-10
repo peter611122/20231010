@@ -691,7 +691,7 @@ table {
 
 .mailAddress{
     
-    width: 248px;
+    width: 220px;
     height: 52px;
     border: #fff 1px solid; 
     font-size: 18px;
@@ -701,7 +701,7 @@ table {
 
 .mailButton{
     width: 66px;
-    height: 56px;
+    height: 55px;
     padding: 0 0 0 0;
     border: #FFE180 1px solid;
     float: left;
